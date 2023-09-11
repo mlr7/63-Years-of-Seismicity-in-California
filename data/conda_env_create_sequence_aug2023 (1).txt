@@ -1,0 +1,9 @@
+
+
+# > conda env list
+# > conda create --name obspy_1
+# > conda activate obspy_1
+# > conda install pip
+# > conda install -c anaconda jupyter
+# > conda install -c conda-forge obspy
+# > conda install -c anaconda pandas
